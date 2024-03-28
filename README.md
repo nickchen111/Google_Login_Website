@@ -20,4 +20,4 @@
 
 
  
-//用到mongodb ejs Oauth Authentication中的Bcrypt  風格採用RESTful API
+//用到mongodb ejs Oauth（2.0版本） Authentication中的Bcrypt  風格採用RESTful API flash 功能 
