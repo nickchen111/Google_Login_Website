@@ -28,7 +28,7 @@
 # Engilish Version
 * **Website Functionality:**
   * Create a login website where users can register accounts locally and log in. They can also log in via Google OAuth to access the site using their Google accounts. Once logged in, users can add their posts on the current page.
-* Website Layout
+* Website Layout:
     * **Homepage:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%B6%B2%E7%AB%99%E9%A6%96%E9%A0%81.png)
     * **Login Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
                       Users can choose between local login or third-party Google login.
