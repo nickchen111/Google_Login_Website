@@ -16,7 +16,11 @@
    
       * 註冊條件不符合畫面: ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E8%A8%BB%E5%86%8A%E6%99%82%E4%B8%8D%E7%AC%A6%E5%90%88%E6%A2%9D%E4%BB%B6%E5%8A%9F%E8%83%BD.png)
       *註冊成功畫面: ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E6%88%90%E5%8A%9F%E8%A8%BB%E5%86%8A.png)
-* 技術細節 : 
+* 技術細節 :
+  * 使用MVC架構 建立整個伺服器系統
+  * 風格採用RESTful API
+  * 網站登入方式新增了Oauth google 2.0的方式 提高使用者註冊機率
+  * 對使用者註冊的密碼採用bcrypt技術加鹽
 
 
  
