@@ -2,7 +2,7 @@
 
 # 專案說明
 * 網站功能 : 建立一個登入網站, 使用者可以在該網站本地註冊帳號並且登入, 也可以藉由OAuth第三方授權的方式透過google帳號登入網站, 登入後使用者可以在當前頁面新增自己的貼文。
-  * 首頁 : ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E9%A6%96%E9%A0%81.png)
+  * 首頁 : ![image]()
   * 登入畫面 : ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
     * 可以選擇要用本地登入還是第三方google登入
   * 透過google登入畫面 : ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E9%BB%9E%E9%81%B8%E9%80%8F%E9%81%8Egoogle%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
@@ -27,7 +27,7 @@
 # Engilish Version
 * **Website Functionality:**
   * Create a login website where users can register accounts locally and log in. They can also log in via Google OAuth to access the site using their Google accounts. Once logged in, users can add their posts on the current page.
-    * **Homepage:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E9%A6%96%E9%A0%81.png)
+    * **Homepage:** ![image]()
     * **Login Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
       * Users can choose between local login or third-party Google login.
     * **Google OAuth Login Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E9%BB%9E%E9%81%B8%E9%80%8F%E9%81%8Egoogle%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
