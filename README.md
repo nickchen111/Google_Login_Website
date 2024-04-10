@@ -23,7 +23,3 @@
     ![image]()
   * 對使用者註冊的密碼採用bcrypt技術加鹽
   * 使flash method提升跟使用者的立即互動
-
-
- 
-//用到mongodb ejs Oauth（2.0版本） Authentication中的Bcrypt  風格採用RESTful API flash 功能 
