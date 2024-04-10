@@ -29,14 +29,14 @@
   * Create a login website where users can register accounts locally and log in. They can also log in via Google OAuth to access the site using their Google accounts. Once logged in, users can add their posts on the current page.
     * **Homepage:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%B6%B2%E7%AB%99%E9%A6%96%E9%A0%81.png)
     * **Login Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
-      * Users can choose between local login or third-party Google login.
+                      Users can choose between local login or third-party Google login.
     * **Google OAuth Login Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E9%BB%9E%E9%81%B8%E9%80%8F%E9%81%8Egoogle%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
-      * Users can select their Google account. Passport, a middleware for authentication, is used here.
+                                   Users can select their Google account. Passport, a middleware for authentication, is used here.
     * **After successful login, Personal Profile:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E6%88%90%E5%8A%9F%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2profile.png)
-      * Users can add posts or log out from this page.
+                                                    Users can add posts or log out from this page.
         * **Add Post Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E6%96%B0%E5%A2%9Epost%E7%95%AB%E9%9D%A2.png)
   * **Local Registration Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E8%A8%BB%E5%86%8A%E7%95%AB%E9%9D%A2.png)
-    * Users need to enter a name of at least 3 characters, a valid email format, and a password of at least 8 characters. If any of these criteria are not met, an error message will be displayed.
+                                 Users need to enter a name of at least 3 characters, a valid email format, and a password of at least 8 characters. If any of these criteria are not met, an error message will be displayed.
       * **Registration Criteria Not Met Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E8%A8%BB%E5%86%8A%E6%99%82%E4%B8%8D%E7%AC%A6%E5%90%88%E6%A2%9D%E4%BB%B6%E5%8A%9F%E8%83%BD.png)
       * **Successful Registration Page:** ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E6%88%90%E5%8A%9F%E8%A8%BB%E5%86%8A.png)
 * **Technical Details:**
