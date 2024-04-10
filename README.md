@@ -20,6 +20,6 @@
   * 使用MVC架構 建立整個伺服器系統
   * 風格採用RESTful API
   * 網站登入方式新增了Oauth google 2.0的方式 提高使用者註冊機率 (Oauth技術流程如下圖所示)
-    ![image]()
+    ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/Oauth%E6%B5%81%E7%A8%8B%E5%9C%96.png)
   * 對使用者註冊的密碼採用bcrypt技術加鹽
   * 使flash method提升跟使用者的立即互動
