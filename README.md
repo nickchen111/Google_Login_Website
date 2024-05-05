@@ -3,7 +3,7 @@
 # 專案說明
 * 網站功能 : 建立一個登入網站, 使用者可以在該網站本地註冊帳號並且登入, 也可以藉由OAuth第三方授權的方式透過google帳號登入網站, 登入後使用者可以在當前頁面新增自己的貼文。
 * 網站版面
-  * 首頁 : ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%B6%B2%E7%AB%99%E9%A6%96%E9%A0%81.png)
+  * 首頁 : ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%B6%B2%E9%A0%81%E9%A6%96%E9%A0%81.png)
   * 登入畫面 : ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
               可以選擇要用本地登入還是第三方google登入
   * 透過google登入畫面 : ![image](https://github.com/nickchen111/Google_Login_Website/blob/main/img/%E9%BB%9E%E9%81%B8%E9%80%8F%E9%81%8Egoogle%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
@@ -44,7 +44,7 @@
 * **Technical Details:**
   * MVC architecture used to build the entire server system.
   * Styled with RESTful API.
-  * Added OAuth Google 2.0 login method to increase user registration rates. [OAuth technology process shown in the diagram](https://github.com/nickchen111/Google_Login_Website/blob/main/img/Oauth%E6%B5%81%E7%A8%8B%E5%9C%96.png).
+  * Added OAuth Google 2.0 login method to increase user registration rates. [OAuth technology process shown in the diagram(https://github.com/nickchen111/Google_Login_Website/blob/main/img/Oauth%E6%B5%81%E7%A8%8B%E5%9C%96.png).
   * Passwords for user registration are hashed using bcrypt with salt.
   * Utilized flash method to enhance immediate interaction with users.
 
